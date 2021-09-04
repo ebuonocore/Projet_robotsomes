@@ -1,0 +1,7 @@
+{
+"largeur": 4,
+"hauteur" : 4,
+"fourmis" : [[1,2,2],[2,1,3]],
+"cases_noires" : [],
+"sorties" : [[1,0]]
+}
